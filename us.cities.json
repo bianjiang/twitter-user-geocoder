@@ -1,0 +1,885 @@
+[{
+  "names": ["los angeles"],
+  "state": "ca",
+  "city": "los angeles"
+}, {
+  "names": ["chicago"],
+  "state": "il",
+  "city": "chicago"
+}, {
+  "names": ["houston"],
+  "state": "tx",
+  "city": "houston"
+}, {
+  "names": ["philadelphia"],
+  "state": "pa",
+  "city": "philadelphia"
+}, {
+  "names": ["phoenix"],
+  "state": "az",
+  "city": "phoenix"
+}, {
+  "names": ["san diego"],
+  "state": "ca",
+  "city": "san diego"
+}, {
+  "names": ["dallas"],
+  "state": "tx",
+  "city": "dallas"
+}, {
+  "names": ["san jose"],
+  "state": "ca",
+  "city": "san jose"
+}, {
+  "names": ["indianapolis"],
+  "state": "in",
+  "city": "indianapolis"
+}, {
+  "names": ["jacksonville"],
+  "state": "fl",
+  "city": "jacksonville"
+}, {
+  "names": ["san francisco"],
+  "state": "ca",
+  "city": "san francisco"
+}, {
+  "names": ["austin"],
+  "state": "tx",
+  "city": "austin"
+}, {
+  "names": ["columbus"],
+  "state": "oh",
+  "city": "columbus"
+}, {
+  "names": ["fort worth"],
+  "state": "tx",
+  "city": "fort worth"
+}, {
+  "names": ["charlotte"],
+  "state": "nc",
+  "city": "charlotte"
+}, {
+  "names": ["el paso"],
+  "state": "tx",
+  "city": "el paso"
+}, {
+  "names": ["memphis"],
+  "state": "tn",
+  "city": "memphis"
+}, {
+  "names": ["baltimore"],
+  "state": "md",
+  "city": "baltimore"
+}, {
+  "names": ["boston"],
+  "state": "ma",
+  "city": "boston"
+}, {
+  "names": ["seattle"],
+  "state": "wa",
+  "city": "seattle"
+}, {
+  "names": ["washington, d.c."],
+  "state": "dc",
+  "city": "washington, d.c."
+}, {
+  "names": ["denver"],
+  "state": "co",
+  "city": "denver"
+}, {
+  "names": ["milwaukee"],
+  "state": "wi",
+  "city": "milwaukee"
+}, {
+  "names": ["portland"],
+  "state": "or",
+  "city": "portland"
+}, {
+  "names": ["las vegas"],
+  "state": "nv",
+  "city": "las vegas"
+}, {
+  "names": ["oklahoma city"],
+  "state": "ok",
+  "city": "oklahoma city"
+}, {
+  "names": ["albuquerque"],
+  "state": "nm",
+  "city": "albuquerque"
+}, {
+  "names": ["nashville"],
+  "state": "tn",
+  "city": "nashville"
+}, {
+  "names": ["tucson"],
+  "state": "az",
+  "city": "tucson"
+}, {
+  "names": ["fresno"],
+  "state": "ca",
+  "city": "fresno"
+}, {
+  "names": ["sacramento"],
+  "state": "ca",
+  "city": "sacramento"
+}, {
+  "names": ["long beach"],
+  "state": "ca",
+  "city": "long beach"
+}, {
+  "names": ["kansas city"],
+  "state": "ks",
+  "city": "kansas city"
+}, {
+  "names": ["mesa"],
+  "state": "az",
+  "city": "mesa"
+}, {
+  "names": ["atlanta"],
+  "state": "ga",
+  "city": "atlanta"
+}, {
+  "names": ["colorado springs"],
+  "state": "co",
+  "city": "colorado springs"
+}, {
+  "names": ["raleigh"],
+  "state": "nc",
+  "city": "raleigh"
+}, {
+  "names": ["miami"],
+  "state": "fl",
+  "city": "miami"
+}, {
+  "names": ["tulsa"],
+  "state": "ok",
+  "city": "tulsa"
+}, {
+  "names": ["oakland"],
+  "state": "ca",
+  "city": "oakland"
+}, {
+  "names": ["wichita"],
+  "state": "ks",
+  "city": "wichita"
+}, {
+  "names": ["honolulu"],
+  "state": "hi",
+  "city": "honolulu"
+}, {
+  "names": ["arlington"],
+  "state": "tx",
+  "city": "arlington"
+}, {
+  "names": ["bakersfield"],
+  "state": "ca",
+  "city": "bakersfield"
+}, {
+  "names": ["new orleans"],
+  "state": "la",
+  "city": "new orleans"
+}, {
+  "names": ["anaheim"],
+  "state": "ca",
+  "city": "anaheim"
+}, {
+  "names": ["tampa"],
+  "state": "fl",
+  "city": "tampa"
+}, {
+  "names": ["aurora"],
+  "state": "co",
+  "city": "aurora"
+}, {
+  "names": ["santa ana"],
+  "state": "ca",
+  "city": "santa ana"
+}, {
+  "names": ["st. louis"],
+  "state": "mo",
+  "city": "st. louis"
+}, {
+  "names": ["pittsburgh"],
+  "state": "pa",
+  "city": "pittsburgh"
+}, {
+  "names": ["corpus christi"],
+  "state": "tx",
+  "city": "corpus christi"
+}, {
+  "names": ["riverside"],
+  "state": "ca",
+  "city": "riverside"
+}, {
+  "names": ["cincinnati"],
+  "state": "oh",
+  "city": "cincinnati"
+}, {
+  "names": ["lexington-fayette"],
+  "state": "ky",
+  "city": "lexington-fayette"
+}, {
+  "names": ["anchorage"],
+  "state": "ak",
+  "city": "anchorage"
+}, {
+  "names": ["stockton"],
+  "state": "ca",
+  "city": "stockton"
+}, {
+  "names": ["ironville"],
+  "state": "ky",
+  "city": "ironville"
+}, {
+  "names": ["meads"],
+  "state": "ky",
+  "city": "meads"
+}, {
+  "names": ["greensboro"],
+  "state": "nc",
+  "city": "greensboro"
+}, {
+  "names": ["henderson"],
+  "state": "nv",
+  "city": "henderson"
+}, {
+  "names": ["fort wayne"],
+  "state": "in",
+  "city": "fort wayne"
+}, {
+  "names": ["saint petersburg"],
+  "state": "fl",
+  "city": "saint petersburg"
+}, {
+  "names": ["chula vista"],
+  "state": "ca",
+  "city": "chula vista"
+}, {
+  "names": ["louisville"],
+  "state": "ky",
+  "city": "louisville"
+}, {
+  "names": ["orlando"],
+  "state": "fl",
+  "city": "orlando"
+}, {
+  "names": ["chandler"],
+  "state": "az",
+  "city": "chandler"
+}, {
+  "names": ["madison"],
+  "state": "wi",
+  "city": "madison"
+}, {
+  "names": ["winston-salem"],
+  "state": "nc",
+  "city": "winston-salem"
+}, {
+  "names": ["lubbock"],
+  "state": "tx",
+  "city": "lubbock"
+}, {
+  "names": ["baton rouge"],
+  "state": "la",
+  "city": "baton rouge"
+}, {
+  "names": ["durham"],
+  "state": "nc",
+  "city": "durham"
+}, {
+  "names": ["garland"],
+  "state": "tx",
+  "city": "garland"
+}, {
+  "names": ["lexington"],
+  "state": "ky",
+  "city": "lexington"
+}, {
+  "names": ["reno"],
+  "state": "nv",
+  "city": "reno"
+}, {
+  "names": ["hialeah"],
+  "state": "fl",
+  "city": "hialeah"
+}, {
+  "names": ["paradise"],
+  "state": "nv",
+  "city": "paradise"
+}, {
+  "names": ["scottsdale"],
+  "state": "az",
+  "city": "scottsdale"
+}, {
+  "names": ["fremont"],
+  "state": "ca",
+  "city": "fremont"
+}, {
+  "names": ["birmingham"],
+  "state": "al",
+  "city": "birmingham"
+}, {
+  "names": ["san bernardino"],
+  "state": "ca",
+  "city": "san bernardino"
+}, {
+  "names": ["spokane"],
+  "state": "wa",
+  "city": "spokane"
+}, {
+  "names": ["gilbert"],
+  "state": "az",
+  "city": "gilbert"
+}, {
+  "names": ["montgomery"],
+  "state": "al",
+  "city": "montgomery"
+}, {
+  "names": ["des moines"],
+  "state": "ia",
+  "city": "des moines"
+}, {
+  "names": ["modesto"],
+  "state": "ca",
+  "city": "modesto"
+}, {
+  "names": ["fayetteville"],
+  "state": "nc",
+  "city": "fayetteville"
+}, {
+  "names": ["shreveport"],
+  "state": "la",
+  "city": "shreveport"
+}, {
+  "names": ["tacoma"],
+  "state": "wa",
+  "city": "tacoma"
+}, {
+  "names": ["oxnard"],
+  "state": "ca",
+  "city": "oxnard"
+}, {
+  "names": ["fontana"],
+  "state": "ca",
+  "city": "fontana"
+}, {
+  "names": ["mobile"],
+  "state": "al",
+  "city": "mobile"
+}, {
+  "names": ["little rock"],
+  "state": "ar",
+  "city": "little rock"
+}, {
+  "names": ["moreno valley"],
+  "state": "ca",
+  "city": "moreno valley"
+}, {
+  "names": ["glendale"],
+  "state": "ca",
+  "city": "glendale"
+}, {
+  "names": ["amarillo"],
+  "state": "tx",
+  "city": "amarillo"
+}, {
+  "names": ["huntington beach"],
+  "state": "ca",
+  "city": "huntington beach"
+}, {
+  "names": ["sunrise manor"],
+  "state": "nv",
+  "city": "sunrise manor"
+}, {
+  "names": ["oxnard shores"],
+  "state": "ca",
+  "city": "oxnard shores"
+}, {
+  "names": ["salt lake city"],
+  "state": "ut",
+  "city": "salt lake city"
+}, {
+  "names": ["tallahassee"],
+  "state": "fl",
+  "city": "tallahassee"
+}, {
+  "names": ["huntsville"],
+  "state": "al",
+  "city": "huntsville"
+}, {
+  "names": ["knoxville"],
+  "state": "tn",
+  "city": "knoxville"
+}, {
+  "names": ["spring valley"],
+  "state": "nv",
+  "city": "spring valley"
+}, {
+  "names": ["providence"],
+  "state": "ri",
+  "city": "providence"
+}, {
+  "names": ["santa clarita"],
+  "state": "ca",
+  "city": "santa clarita"
+}, {
+  "names": ["grand prairie"],
+  "state": "tx",
+  "city": "grand prairie"
+}, {
+  "names": ["brownsville"],
+  "state": "tx",
+  "city": "brownsville"
+}, {
+  "names": ["jackson"],
+  "state": "ms",
+  "city": "jackson"
+}, {
+  "names": ["overland park"],
+  "state": "ks",
+  "city": "overland park"
+}, {
+  "names": ["garden grove"],
+  "state": "ca",
+  "city": "garden grove"
+}, {
+  "names": ["santa rosa"],
+  "state": "ca",
+  "city": "santa rosa"
+}, {
+  "names": ["chattanooga"],
+  "state": "tn",
+  "city": "chattanooga"
+}, {
+  "names": ["hollywood"],
+  "state": "ca",
+  "city": "hollywood"
+}, {
+  "names": ["oceanside"],
+  "state": "ca",
+  "city": "oceanside"
+}, {
+  "names": ["fort lauderdale"],
+  "state": "fl",
+  "city": "fort lauderdale"
+}, {
+  "names": ["rancho cucamonga"],
+  "state": "ca",
+  "city": "rancho cucamonga"
+}, {
+  "names": ["port saint lucie"],
+  "state": "fl",
+  "city": "port saint lucie"
+}, {
+  "names": ["ontario"],
+  "state": "ca",
+  "city": "ontario"
+}, {
+  "names": ["vancouver"],
+  "state": "wa",
+  "city": "vancouver"
+}, {
+  "names": ["tempe"],
+  "state": "az",
+  "city": "tempe"
+}, {
+  "names": ["springfield"],
+  "state": "mo",
+  "city": "springfield"
+}, {
+  "names": ["tempe junction"],
+  "state": "az",
+  "city": "tempe junction"
+}, {
+  "names": ["lancaster"],
+  "state": "ca",
+  "city": "lancaster"
+}, {
+  "names": ["eugene"],
+  "state": "or",
+  "city": "eugene"
+}, {
+  "names": ["pembroke pines"],
+  "state": "fl",
+  "city": "pembroke pines"
+}, {
+  "names": ["salem"],
+  "state": "or",
+  "city": "salem"
+}, {
+  "names": ["cape coral"],
+  "state": "fl",
+  "city": "cape coral"
+}, {
+  "names": ["sioux falls"],
+  "state": "sd",
+  "city": "sioux falls"
+}, {
+  "names": ["elk grove"],
+  "state": "ca",
+  "city": "elk grove"
+}, {
+  "names": ["rockford"],
+  "state": "il",
+  "city": "rockford"
+}, {
+  "names": ["palmdale"],
+  "state": "ca",
+  "city": "palmdale"
+}, {
+  "names": ["corona"],
+  "state": "ca",
+  "city": "corona"
+}, {
+  "names": ["salinas"],
+  "state": "ca",
+  "city": "salinas"
+}, {
+  "names": ["pomona"],
+  "state": "ca",
+  "city": "pomona"
+}, {
+  "names": ["joliet"],
+  "state": "il",
+  "city": "joliet"
+}, {
+  "names": ["boise"],
+  "state": "id",
+  "city": "boise"
+}, {
+  "names": ["torrance"],
+  "state": "ca",
+  "city": "torrance"
+}, {
+  "names": ["bridgeport"],
+  "state": "ct",
+  "city": "bridgeport"
+}, {
+  "names": ["hayward"],
+  "state": "ca",
+  "city": "hayward"
+}, {
+  "names": ["fort collins"],
+  "state": "co",
+  "city": "fort collins"
+}, {
+  "names": ["escondido"],
+  "state": "ca",
+  "city": "escondido"
+}, {
+  "names": ["lakewood"],
+  "state": "co",
+  "city": "lakewood"
+}, {
+  "names": ["metairie terrace"],
+  "state": "la",
+  "city": "metairie terrace"
+}, {
+  "names": ["naperville"],
+  "state": "il",
+  "city": "naperville"
+}, {
+  "names": ["dayton"],
+  "state": "oh",
+  "city": "dayton"
+}, {
+  "names": ["sunnyvale"],
+  "state": "ca",
+  "city": "sunnyvale"
+}, {
+  "names": ["metairie"],
+  "state": "la",
+  "city": "metairie"
+}, {
+  "names": ["pasadena"],
+  "state": "ca",
+  "city": "pasadena"
+}, {
+  "names": ["orange"],
+  "state": "ca",
+  "city": "orange"
+}, {
+  "names": ["savannah"],
+  "state": "ga",
+  "city": "savannah"
+}, {
+  "names": ["cary"],
+  "state": "nc",
+  "city": "cary"
+}, {
+  "names": ["fullerton"],
+  "state": "ca",
+  "city": "fullerton"
+}, {
+  "names": ["clarksville"],
+  "state": "tn",
+  "city": "clarksville"
+}, {
+  "names": ["west valley city"],
+  "state": "ut",
+  "city": "west valley city"
+}, {
+  "names": ["topeka"],
+  "state": "ks",
+  "city": "topeka"
+}, {
+  "names": ["thousand oaks"],
+  "state": "ca",
+  "city": "thousand oaks"
+}, {
+  "names": ["cedar rapids"],
+  "state": "ia",
+  "city": "cedar rapids"
+}, {
+  "names": ["olathe"],
+  "state": "ks",
+  "city": "olathe"
+}, {
+  "names": ["gainesville"],
+  "state": "fl",
+  "city": "gainesville"
+}, {
+  "names": ["simi valley"],
+  "state": "ca",
+  "city": "simi valley"
+}, {
+  "names": ["bellevue"],
+  "state": "wa",
+  "city": "bellevue"
+}, {
+  "names": ["concord"],
+  "state": "ca",
+  "city": "concord"
+}, {
+  "names": ["miramar"],
+  "state": "fl",
+  "city": "miramar"
+}, {
+  "names": ["coral springs"],
+  "state": "fl",
+  "city": "coral springs"
+}, {
+  "names": ["lafayette"],
+  "state": "la",
+  "city": "lafayette"
+}, {
+  "names": ["charleston"],
+  "state": "sc",
+  "city": "charleston"
+}, {
+  "names": ["carrollton"],
+  "state": "tx",
+  "city": "carrollton"
+}, {
+  "names": ["roseville"],
+  "state": "ca",
+  "city": "roseville"
+}, {
+  "names": ["thornton"],
+  "state": "co",
+  "city": "thornton"
+}, {
+  "names": ["beaumont"],
+  "state": "tx",
+  "city": "beaumont"
+}, {
+  "names": ["surprise"],
+  "state": "az",
+  "city": "surprise"
+}, {
+  "names": ["evansville"],
+  "state": "in",
+  "city": "evansville"
+}, {
+  "names": ["abilene"],
+  "state": "tx",
+  "city": "abilene"
+}, {
+  "names": ["frisco"],
+  "state": "tx",
+  "city": "frisco"
+}, {
+  "names": ["independence"],
+  "state": "mo",
+  "city": "independence"
+}, {
+  "names": ["athens"],
+  "state": "ga",
+  "city": "athens"
+}, {
+  "names": ["santa clara"],
+  "state": "ca",
+  "city": "santa clara"
+}, {
+  "names": ["peoria"],
+  "state": "il",
+  "city": "peoria"
+}, {
+  "names": ["el monte"],
+  "state": "ca",
+  "city": "el monte"
+}, {
+  "names": ["denton"],
+  "state": "tx",
+  "city": "denton"
+}, {
+  "names": ["berkeley"],
+  "state": "ca",
+  "city": "berkeley"
+}, {
+  "names": ["provo"],
+  "state": "ut",
+  "city": "provo"
+}, {
+  "names": ["downey"],
+  "state": "ca",
+  "city": "downey"
+}, {
+  "names": ["midland"],
+  "state": "tx",
+  "city": "midland"
+}, {
+  "names": ["norman"],
+  "state": "ok",
+  "city": "norman"
+}, {
+  "names": ["irving"],
+  "state": "ct",
+  "city": "irving"
+}, {
+  "names": ["costa mesa"],
+  "state": "ca",
+  "city": "costa mesa"
+}, {
+  "names": ["inglewood"],
+  "state": "ca",
+  "city": "inglewood"
+}, {
+  "names": ["murfreesboro"],
+  "state": "tn",
+  "city": "murfreesboro"
+}, {
+  "names": ["enterprise"],
+  "state": "nv",
+  "city": "enterprise"
+}, {
+  "names": ["elgin"],
+  "state": "il",
+  "city": "elgin"
+}, {
+  "names": ["clearwater"],
+  "state": "fl",
+  "city": "clearwater"
+}, {
+  "names": ["miami gardens"],
+  "state": "fl",
+  "city": "miami gardens"
+}, {
+  "names": ["pueblo"],
+  "state": "co",
+  "city": "pueblo"
+}, {
+  "names": ["lowell"],
+  "state": "ma",
+  "city": "lowell"
+}, {
+  "names": ["wilmington"],
+  "state": "nc",
+  "city": "wilmington"
+}, {
+  "names": ["arvada"],
+  "state": "co",
+  "city": "arvada"
+}, {
+  "names": ["westminster"],
+  "state": "co",
+  "city": "westminster"
+}, {
+  "names": ["west covina"],
+  "state": "ca",
+  "city": "west covina"
+}, {
+  "names": ["gresham"],
+  "state": "or",
+  "city": "gresham"
+}, {
+  "names": ["norwalk"],
+  "state": "ca",
+  "city": "norwalk"
+}, {
+  "names": ["carlsbad"],
+  "state": "ca",
+  "city": "carlsbad"
+}, {
+  "names": ["fairfield"],
+  "state": "ca",
+  "city": "fairfield"
+}, {
+  "names": ["cambridge"],
+  "state": "ma",
+  "city": "cambridge"
+}, {
+  "names": ["universal city"],
+  "state": "ca",
+  "city": "universal city"
+}, {
+  "names": ["high point"],
+  "state": "nc",
+  "city": "high point"
+}, {
+  "names": ["billings"],
+  "state": "mt",
+  "city": "billings"
+}, {
+  "names": ["green bay"],
+  "state": "wi",
+  "city": "green bay"
+}, {
+  "names": ["west jordan"],
+  "state": "ut",
+  "city": "west jordan"
+}, {
+  "names": ["richmond"],
+  "state": "ca",
+  "city": "richmond"
+}, {
+  "names": ["brandon"],
+  "state": "fl",
+  "city": "brandon"
+}, {
+  "names": ["murrieta"],
+  "state": "ca",
+  "city": "murrieta"
+}, {
+  "names": ["burbank"],
+  "state": "ca",
+  "city": "burbank"
+}, {
+  "names": ["palm bay"],
+  "state": "fl",
+  "city": "palm bay"
+}, {
+  "names": ["everett"],
+  "state": "wa",
+  "city": "everett"
+}, {
+  "names": ["antioch"],
+  "state": "ca",
+  "city": "antioch"
+}, {
+  "names": ["south bend"],
+  "state": "in",
+  "city": "south bend"
+}, {
+  "names": ["daly city"],
+  "state": "ca",
+  "city": "daly city"
+}, {
+  "names": ["centennial"],
+  "state": "co",
+  "city": "centennial"
+}, {
+  "names": ["temecula"],
+  "state": "ca",
+  "city": "temecula"
+}]
