@@ -31,11 +31,11 @@ It's basically trying to resolve the `location` string to a U.S. state or city b
 
 It downloads the relevant databases from geonames, and run `process_geonames_us.py` to generate the lexical dictionaries.
 
-** Note that, the `bootstraph_geonames.sh` uses `aria2c` to download the file, and I uses [pyenv](https://github.com/yyuu/pyenv) to manage my python versions.**
+**Note that, the `bootstraph_geonames.sh` uses `aria2c` to download the file, and I uses [pyenv](https://github.com/yyuu/pyenv) to manage my python versions.**
 
-** I included the dictionaries I have generated in this repo. The `us.states.json` is too big, so I have to compressed it (with `gzip`). Before you use it, you have to unzip it first.**
+**I included the dictionaries I have generated in this repo. The `us.states.json` is too big, so I have to compressed it (with `gzip`). Before you use it, you have to unzip it first.**
 
-** You should regenerate the dictionaries, since GeoNames databases are still growing. But there are a few caveats (see below), so I had to manually fix a few lexical patterns. **
+**You should regenerate the dictionaries, since GeoNames databases are still growing. But there are a few caveats (see below), so I had to manually fix a few lexical patterns. **
 
 Now, I split the code into two `tweet_us_city_geocoder.py` and `tweet_us_state_geocoder.py`. And the functionality of each is obvious based on the names. At the end of each script you see a test case.
 
